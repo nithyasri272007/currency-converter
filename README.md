@@ -19,11 +19,10 @@ It takes an amount and converts it from one currency to another using real-time 
 
 ## 📸 Preview
 
-### 🔹 Output 1
-![Output 1](output1.png)
-
-### 🔹 Output 2
-![Output 2](output2.png)
+<p align="center">
+  <img src="output1.png" width="45%">
+  <img src="output2.png" width="45%">
+</p>
 
 ## 📌 How to Use
 
