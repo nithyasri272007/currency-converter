@@ -19,8 +19,11 @@ It takes an amount and converts it from one currency to another using real-time 
 
 ## 📸 Preview
 
-![Currency Converter](screenshot.png)
+### 🔹 Output 1
+![Output 1](output1.png)
 
+### 🔹 Output 2
+![Output 2](output2.png)
 
 ## 📌 How to Use
 
