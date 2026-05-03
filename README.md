@@ -36,7 +36,11 @@ It takes an amount and converts it from one currency to another using real-time 
 
 - `index.html` → structure  
 - `style.css` → design  
-- `script.js` → logic and API handling  
+- `script.js` → logic and API handling
+
+## 🔗 Live Demo
+
+https://nithyasri272007.github.io/currency-converter/
 
 ## 🧠 What I learned
 
